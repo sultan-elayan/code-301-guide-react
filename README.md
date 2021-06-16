@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Code 301 Pre-work: Intermediate Software Development
 
-You can use the [editor on GitHub](https://github.com/LTUC/code-301-guide-react/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To get your laptop and yourself ready for the start of Code 301, there are a series of pre-work tasks to complete.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before completing the tasks in this document, ensure that you have completed all of the installation tasks in the [Code 201 Prework](https://codefellows.github.io/code-201-guide/curriculum/prework/){:target="_blank"}.
 
-### Markdown
+In particular, if you have tested in to Code 301 and did not take Code 201, be especially attentive to the git and GitHub portion of the Code 201 prework. Note that your future classmates who took 201 will already have a month of practice using git and GitHub; it is a common area of challenge in 301 for students who tested in to the course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Note that the tasks below have a corresponding assignment to submit in your Canvas course, but be aware that at the time you receive the link to this pre-work that the Canvas course will not yet be published. Because of Admissions processes and when classes begin and end, Canvas courses are typically published 3-5 days before class begins.
 
-```markdown
-Syntax highlighted code block
+## Career Coaching Assignments
 
-# Header 1
-## Header 2
-### Header 3
+1. Familiarize yourself with the [Career Coaching program](/common_curriculum/career_coaching), and review the [Code 301 Career Coaching Syllabus](/common_curriculum/career_coaching/Code_301/301_Career_Coaching_Syllabus).
+1. Reflect on how to boost your [Professional Etiquette](/common_curriculum/career_coaching/301/professional-etiquette)
+1. Build up your bank of [Behavioral Questions](/common_curriculum/career_coaching/301/behavioral-questions)
+1. [Status Report](/common_curriculum/career_coaching/301/status-report)
+1. Practice your [Professional Pitch](/common_curriculum/career_coaching/301/professional-pitch-draft)
+1. [Update Your Resume](/common_curriculum/career_coaching/301/update-your-resume)
 
-- Bulleted
-- List
+## Code Assignments
 
-1. Numbered
-2. List
+1. [Chocolate Pizza](chocolate_pizza)
+1. [CSS Diner](css_diner.md)
+1. [Portfolio Prep](portfolio_prep)
+1. [Arrow Functions in JavaScript](arrow-functions)
+1. [Classes in JavaScript](classes)
+1. [Dive into React](react)
 
-**Bold** and _Italic_ and `Code` text
+## Computer Setup
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LTUC/code-301-guide-react/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Setup Instructions](set-up)
